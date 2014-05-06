@@ -1,0 +1,9 @@
+Package: com.gokulabs.bitcoinfornc
+Name: Bitcoin for NC
+Depends: firmware (>= 5.0), com.saurik.substrate.safemode
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome widget for the Notification Center!
+Maintainer: GokuLabs
+Author: GokuLabs
+Section: Addons (NotificationCenter)

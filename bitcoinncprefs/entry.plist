@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = BitcoinNCPrefs;
+		cell = PSLinkCell;
+		detail = "BitcoinNCPrefsListController";
+		icon = "BC_Logo.png";
+		isController = 1;
+		label = "Bitcoin for NC";
+	};
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>BitcoinforNC</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.gokulabs.bitcoinfornc</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>CFBundleDisplayName</key>
+	<string>BitcoinforNC</string>
+	<key>MinimumOSVersion</key>
+	<string>5.0</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>AppBundleID</key>
+	<string>com.gokulabs.bitcoinfornc</string>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>SBUIWidgetViewControllers</key>
+	<dict>
+		<key>SBUIWidgetIdiomNotificationCenterToday</key>
+		<string>BitcoinforNCViewControllerNew</string>
+		<key>SBUIWidgetIdiomNotificationCenter</key>
+		<string>BitcoinforNCViewControllerNew</string>
+	</dict>
+</dict>
+</plist>

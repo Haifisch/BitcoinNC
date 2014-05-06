@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Bitcoin for Notification Center</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string></string>
+			<key>key</key>
+			<string>centerlabels</string>
+			<key>label</key>
+			<string>Center label text</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>defaults</key>
+			<string>com.gokulabs.bitcoinncprefs</string>
+			<key>default</key>
+			<string>USD</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>key</key>
+			<string>currency</string>
+			<key>label</key>
+			<string>Currency</string>
+			<key>validTitles</key>
+			<array>
+				<string>USD (United States dollar)</string>
+				<string>GBP (British Pound Sterling)</string>
+				<string>AUD (Australian dollar)</string>
+				<string>CAD (Canadian dollar)</string>
+				<string>CHF (Swiss Franc)</string>
+				<string>CNY (Chinese Yuan)</string>
+				<string>DKK (Danish Krone)</string>
+				<string>EUR (Euro)</string>
+				<string>HKD (Hong Kong dollar)</string>
+				<string>JPY (Japanese Yen)</string>
+				<string>NZD (New Zealand dollar)</string>
+				<string>PLN (Polish Zloty)</string>
+				<string>RUB (Russian Ruble)</string>
+				<string>SEK (Swedish Krona)</string>
+				<string>SGD (Singapore Dollar)</string>
+				<string>THB (Thai Baht)</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<string>USD</string>
+				<string>GBP</string>
+				<string>AUD</string>
+				<string>CAD</string>
+				<string>CHF</string>
+				<string>DKK</string>
+				<string>CNY</string>
+				<string>EUR</string>
+				<string>HKD</string>
+				<string>JPY</string>
+				<string>NZD</string>
+				<string>PLN</string>
+				<string>RUB</string>
+				<string>SEK</string>
+				<string>SGD</string>
+				<string>THB</string>
+			</array>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Bitcoin for NC</string>
+</dict>
+</plist>
